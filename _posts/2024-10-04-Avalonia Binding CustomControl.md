@@ -3,6 +3,7 @@ title: Avalonia Binding Inside Custom Control
 date: 2024-10-04
 categories: [dotnet, ui]
 tags: [data-binding, dotnet, csharp]     # TAG names should always be lowercase
+author: sebastian
 ---
 
 If you have experience with WPF (Windows Presentation Foundation), you will find that Avalonia shares many similarities with it. However, Avalonia offers several enhancements, particularly in its binding syntax. For instance, consider a scenario where you have a custom UserControl with a custom dependency property. Avalonia provides a more streamlined and efficient approach to implementing such features. 
