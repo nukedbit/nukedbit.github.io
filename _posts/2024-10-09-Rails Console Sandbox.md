@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Using Rails Console Sandbox for Safe Database Debugging
 date: 2024-10-09
@@ -6,7 +5,6 @@ categories: [rails]
 tags: [rails, ruby-on-rails, debugging, database]     # TAG names should always be lowercase
 author: sebastian
 ---
-```
 
 # Using Rails Console Sandbox for Safe Database Debugging
 
