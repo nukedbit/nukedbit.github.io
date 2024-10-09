@@ -2,7 +2,7 @@
 title: Improving ActiveRecord Select Column Rename in Rails
 date: 2024-10-09
 categories: [ruby]
-tags: [ruby, ruby-on-rails, learning]     # TAG names should always be lowercase
+tags: [ruby, ruby-on-rails, active-record]     # TAG names should always be lowercase
 author: sebastian
 published: true
 ---
